@@ -1,0 +1,5 @@
+Configuration Management (CM) is important in software development
+because it keeps track of all changes made to the project. It ensures
+everyone works on the correct version, prevents confusion, and makes it
+easier to fix issues or update the software. In simple terms, CM helps
+keep everything organized, consistent, and under control.
